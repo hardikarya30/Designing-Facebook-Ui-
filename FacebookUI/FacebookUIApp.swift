@@ -9,7 +9,7 @@ import SwiftUI
 struct FacebookUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppRootView()
         }
     }
 }
